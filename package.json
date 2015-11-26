@@ -1,0 +1,33 @@
+{
+  "name": "object-swap-key-val",
+  "version": "1.0.0",
+  "description": "swap between object keys and values",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabiGrin/object-swap-key-val.git"
+  },
+  "keywords": [
+    "object",
+    "mirror",
+    "swap",
+    "key value",
+    "value key",
+    "object reverse"
+  ],
+  "author": "GabiGrin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabiGrin/object-swap-key-val/issues"
+  },
+  "homepage": "https://github.com/GabiGrin/object-swap-key-val#readme",
+  "devDependencies": {
+    "ava": "^0.5.0"
+  },
+  "dependencies": {
+    "is-object": "^1.0.1"
+  }
+}
