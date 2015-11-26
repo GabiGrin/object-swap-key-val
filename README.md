@@ -1,4 +1,4 @@
-#object-swap-key-val [![Build Status](https://travis-ci.org/GabiGrin/hex-to-rgb-string.svg)](https://travis-ci.org/GabiGrin/hex-to-rgb-string)
+#object-swap-key-val [![Build Status](https://travis-ci.org/GabiGrin/object-swap-key-val.svg?branch=master)](https://travis-ci.org/GabiGrin/object-swap-key-val)
 
 ## Usage
 `$ npm install object-swap-key-val`
